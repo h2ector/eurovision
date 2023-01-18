@@ -178,7 +178,7 @@ var abv_paises = {
 };
 
 // Se cargan los datos
-d3.csv("./datos.csv").then((data) => {
+d3.csv("datos.csv").then((data) => {
     // Se convierten los campos numericos a numero
     data.forEach(function(d) {
         d.year              = +d.year;
