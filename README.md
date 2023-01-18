@@ -8,7 +8,7 @@ En esta visualización se permite analizar los resultados del concurso año por 
 ## Datos
 Para la visualización, se han utilizado los datos correspondientes al dataset: [Dataset Eurovisión](https://www.kaggle.com/datasets/evangower/eurovision-song-contest) de libre disposición en [Kaggle](https://www.kaggle.com/). Último acceso: 2 de noviembre de 2022.
 
-Se han eliminado algunas variables y procesado los datos, resultando en el dataset con los datos procesados [Dataset del proyecto](./datos.csv).
+Se han eliminado algunas variables y procesado los datos.
 
 ## Visualización
 La visualización se divide en tres secciones.
